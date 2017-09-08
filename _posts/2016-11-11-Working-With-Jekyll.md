@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: classification_animation3.gif
+  feature: classification_animation5.gif
 ---
 
 ### Posts
