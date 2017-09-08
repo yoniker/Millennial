@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: arctic-1.jpg
+  feature: classification_animation3.gif
 ---
 
 ### Posts
