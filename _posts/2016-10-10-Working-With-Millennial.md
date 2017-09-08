@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: city-1.jpg
+  feature: classification_animation4.gif
 ---
 
 Millennial was designed to be a minimalist theme in order for the focus to remain on your content.
