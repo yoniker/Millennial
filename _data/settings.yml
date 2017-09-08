@@ -1,9 +1,8 @@
-title:  "Gender Classifier"
+#title:  "Gender Classifier"
 tagline: "a Jekyll theme"
 description:
 author:
   name: "Yoni Keren"
-  twitter: paululele
 
 # Change to true for Disqus comments
 disqus:
