@@ -19,10 +19,10 @@ menu:
 - {name: 'Contact', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter', link: 'https://twitter.com/Yoni_Keren'}
+- {icon: 'facebook', link: 'https://www.facebook.com/yoni.keren'}
+- {icon: 'instagram', link: 'https://instagram.com/kerenyoni'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yoni-keren-361498143/'}
+- {icon: 'envelope', link: 'mailto:yoni.keren@yahoo.ca'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
