@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}).
+Project Baby Step is a project aiming to create a superb gender classifier. It is a preliminary tiny project, working my way up to a **far** more ambitious project that I have in mind for quite some time now.
